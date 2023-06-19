@@ -124,7 +124,7 @@ const char* Transmogrification::GetSlotName(uint8 slot, WorldSession* /*session*
         case EQUIPMENT_SLOT_BODY: return  "衬衣";// session->GetAcoreString(LANG_SLOT_NAME_BODY);
         case EQUIPMENT_SLOT_CHEST: return  "胸部";// session->GetAcoreString(LANG_SLOT_NAME_CHEST);
         case EQUIPMENT_SLOT_WAIST: return  "腰部";// session->GetAcoreString(LANG_SLOT_NAME_WAIST);
-        case EQUIPMENT_SLOT_LEGS: return  "Legs";// session->GetAcoreString(LANG_SLOT_NAME_LEGS);
+        case EQUIPMENT_SLOT_LEGS: return  "腿部";// session->GetAcoreString(LANG_SLOT_NAME_LEGS);
         case EQUIPMENT_SLOT_FEET: return  "脚";// session->GetAcoreString(LANG_SLOT_NAME_FEET);
         case EQUIPMENT_SLOT_WRISTS: return  "手腕";// session->GetAcoreString(LANG_SLOT_NAME_WRISTS);
         case EQUIPMENT_SLOT_HANDS: return  "手";// session->GetAcoreString(LANG_SLOT_NAME_HANDS);
